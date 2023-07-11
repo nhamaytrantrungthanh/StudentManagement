@@ -1,0 +1,13 @@
+.student-list {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.student-controller {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 16px;
+    margin: 24px 0 20px;
+}
